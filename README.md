@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá :raised_hand_with_fingers_splayed:, sou o João Bomfim, mais pode me chamar de `Bomfas`.
 
-<!--
-**bomfasjr/bomfasjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor FrontEnd e trabalho na [Wunderman Thompson Brazil](https://www.wundermanthompson.com/pt/brazil) em projetos com AEM, CMS Corporativo da Adobe, sendo um desses projetos a reformulação do portal da Vivo.
 
-Here are some ideas to get you started:
+Além da area tecnica, estudo assuntos relativos como: UX, Gerenciamento de Produto e Acessibilidade Web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cursos que já fiz:
+
+- Arquitetura de Informação - Mergo
+- UX Weekend - Mergo
+- Product Manager - Product Arena
+- Design de Interfaces Acessíveis - UX e Acessibilidade Digital - PUCSP
+
+### Onde me encontrar:
+
+:bird: [Twitter](https://twitter.com/bomfasjr)
+
+:globe_with_meridians: [Site](https://www.joaobomfim.com.br)
