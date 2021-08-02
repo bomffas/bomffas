@@ -10,6 +10,7 @@ Além da area tecnica, estudo assuntos relativos como: UX, Gerenciamento de Prod
 - UX Weekend - Mergo
 - Product Manager - Product Arena
 - Design de Interfaces Acessíveis - UX e Acessibilidade Digital - PUCSP
+- UX Research - Mergo (04/09 E 05/09/2021)
 
 ### Onde me encontrar:
 
