@@ -6,10 +6,10 @@ Além da area tecnica, estudo assuntos relativos como: UX, Gerenciamento de Prod
 
 ### Cursos que já fiz:
 
-- Arquitetura de Informação - Mergo
-- UX Weekend - Mergo
-- Product Manager - Product Arena
-- Design de Interfaces Acessíveis - UX e Acessibilidade Digital - PUCSP
+- Arquitetura de Informação - [Mergo](https://www.mergo.com.br/)
+- UX Weekend - [Mergo](https://www.mergo.com.br/)
+- Product Manager - [Product Arena](https://productarena.io/)
+- Design de Interfaces Acessíveis - UX e Acessibilidade Digital - [PUCSP](https://www.pucsp.br/pos-graduacao/especializacao-e-mba/design-de-interfaces-acessiveis-ux-e-acessibilidade-digital)
 - UX Research - Mergo (04/09 E 05/09/2021)
 
 ### Onde me encontrar:
