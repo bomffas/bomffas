@@ -1,4 +1,4 @@
-## Olá :raised_hand_with_fingers_splayed:, sou o João Bomfim, formado em Análise e Desenvolvimento de Sistemas, pode me chamar tambem de `Bomfas`.
+## Olá :raised_hand_with_fingers_splayed:, sou o João Bomfim, mais pode me chamar tambem de `Bomfas`, formado em Análise e Desenvolvimento de Sistemas.
 
 Sou desenvolvedor FrontEnd e trabalho na [Wunderman Thompson Brazil](https://www.wundermanthompson.com/pt/brazil) em projetos com AEM, CMS Corporativo da Adobe, sendo um desses projetos a reformulação do portal da Vivo.
 
