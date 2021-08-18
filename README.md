@@ -14,9 +14,9 @@ Além da area tecnica, estudo assuntos relativos como: UX, Gerenciamento de Prod
 
 ### Ultimos Freelas:
 
-- [Okeanlab](https://okeanlab.com/) - WordPress
-- [TAED Arquitetura](https://taedarquitetura.com.br/) - WordPress
-- [Casa e Tal](http://casaetal.com/) - WordPress 
+- [Okeanlab](https://okeanlab.com) - WordPress
+- [TAED Arquitetura](https://taedarquitetura.com.br) - WordPress
+- [Casa e Tal](http://casaetal.com) - WordPress 
 
 ### Onde me encontrar:
 
