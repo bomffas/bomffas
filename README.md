@@ -17,6 +17,7 @@ Além da area tecnica, estudo assuntos relativos como: UX, Gerenciamento de Prod
 - [Okeanlab](https://okeanlab.com) - WordPress
 - [TAED Arquitetura](https://taedarquitetura.com.br) - WordPress
 - [Casa e Tal](http://casaetal.com) - WordPress 
+- [Kriger Construtora](https://krigerconstrutor1.websiteseguro.com/) - WordPress
 
 ### Onde me encontrar:
 
