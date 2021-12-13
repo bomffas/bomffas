@@ -12,12 +12,6 @@ Além da area tecnica, estudo assuntos relativos como: UX, Gerenciamento de Prod
 - Design de Interfaces Acessíveis - UX e Acessibilidade Digital - [PUCSP](https://www.pucsp.br/pos-graduacao/especializacao-e-mba/design-de-interfaces-acessiveis-ux-e-acessibilidade-digital)
 - UX Research - [Mergo](https://www.mergo.com.br/)
 
-### Ultimos Freelas:
-
-- [Okeanlab](https://okeanlab.com) - WordPress
-- [TAED Arquitetura](https://taedarquitetura.com.br) - WordPress
-- [Kriger Construtora](http://krigerconstrutora.com.br/) - WordPress
-
 ### Onde me encontrar:
 
 :bird: [Twitter](https://twitter.com/bomfasjr)
