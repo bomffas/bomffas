@@ -2,8 +2,6 @@
 
 Sou desenvolvedor FrontEnd e trabalho na [Juntos Somos Mais](https://www.juntossomosmais.com.br/).
 
-Além da area tecnica, estudo assuntos relativos como: UX, Gerenciamento de Produto e Acessibilidade Web.
-
 ### Cursos que já fiz:
 
 - Arquitetura de Informação - [Mergo](https://www.mergo.com.br/)
