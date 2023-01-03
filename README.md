@@ -1,4 +1,4 @@
-## Olá :raised_hand_with_fingers_splayed:, sou o João Bomfim, mais pode me chamar de `Bomfas`, formado em Análise e Desenvolvimento de Sistemas.
+## Olá :raised_hand_with_fingers_splayed:, sou o João Bomfim, mais pode me chamar de `Bomffas`, formado em Análise e Desenvolvimento de Sistemas.
 
 Sou desenvolvedor FrontEnd e trabalho na [Juntos Somos Mais](https://www.juntossomosmais.com.br/).
 
