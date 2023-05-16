@@ -12,6 +12,6 @@ Sou desenvolvedor FrontEnd e trabalho na [Juntos Somos Mais](https://www.juntoss
 
 ### Onde me encontrar:
 
-:bird: [Twitter](https://twitter.com/bomfasjr)
+:bird: [Twitter](https://twitter.com/bomffas)
 
 :globe_with_meridians: [Site](https://www.joaobomfim.com.br)
