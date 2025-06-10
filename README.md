@@ -20,6 +20,13 @@ Tenho um compromisso com a construção de ambientes de trabalho coesos, confiá
 - Design de Interfaces Acessíveis - UX e Acessibilidade Digital - [PUCSP](https://www.pucsp.br/pos-graduacao/especializacao-e-mba/design-de-interfaces-acessiveis-ux-e-acessibilidade-digital)
 - UX Research - [Mergo](https://www.mergo.com.br/)
 
+### Projetos em WordPress:
+
+- https://kityachilles.com.br/
+- https://drmurilomarinho.com.br/
+- https://kesseftrading.com.br/
+- https://mobystorage.com.br/
+
 ### Onde me encontrar:
 
 :bird: [Twitter](https://twitter.com/bomffas)
