@@ -1,10 +1,14 @@
-## Bomffas aqui!
+## Bomffas here!
 
-Olá pessoal, como estão? Meu nome é João Bomfim, tenho mais de 7 anos de experiência como desenvolvedor FrontEnd.
+I have been working as a front-end developer for over 8 years. During this time, I have worked with basic web technologies (HTML, CSS, Javascript), frameworks such as React.JS/Next.JS with Typescript, and I have also worked with Vue.js.
 
-Minha experiência abrange uma variedade de tecnologias no stack FrontEnd, incluindo Vue.js (Vuex, Vite, Vitest, Vuetify) e React (Jest, Material-UI, Next). Além disso, tenho experiência sólida em plataformas como WordPress e Adobe Experience Manager (AEM).
+Regarding styling, I have used SASS (SCSS) and Styled Components. In addition to using UI libraries such as Veutify and Material-UI.
 
-Tenho um compromisso com a construção de ambientes de trabalho coesos, confiáveis e orientados para resultados. Acredito firmemente que qualquer desafio complexo pode ser superado com cautela e habilidade. Sou hábil em mediar conflitos e em criar um espaço onde as ideias possam fluir livremente.
+I have worked with Git on Github, Gitlab and Bitbucket, in addition to developing components for Adobe Experience Manager (AEM) and templates for WordPress.
+
+I am a person who likes to contribute to the construction of a cohesive, reliable and results-oriented work environment. I believe that any complex challenge can be solved if faced with caution.
+
+I am skilled at mediating conflicts and creating a space where ideas can flow.
 
 ### Stack
 - Vue.js (Vitest, Vite, Veutify, NX)
@@ -12,7 +16,7 @@ Tenho um compromisso com a construção de ambientes de trabalho coesos, confiá
 - WordPress
 - AEM (Adobe Experience Manage)
 
-### Cursos que já fiz:
+### Courses I have already taken:
 
 - Arquitetura de Informação - [Mergo](https://www.mergo.com.br/)
 - UX Weekend - [Mergo](https://www.mergo.com.br/)
@@ -20,14 +24,14 @@ Tenho um compromisso com a construção de ambientes de trabalho coesos, confiá
 - Design de Interfaces Acessíveis - UX e Acessibilidade Digital - [PUCSP](https://www.pucsp.br/pos-graduacao/especializacao-e-mba/design-de-interfaces-acessiveis-ux-e-acessibilidade-digital)
 - UX Research - [Mergo](https://www.mergo.com.br/)
 
-### Projetos em WordPress:
+### WordPress Projects:
 
 - https://kityachilles.com.br/
 - https://drmurilomarinho.com.br/
 - https://kesseftrading.com.br/
 - https://mobystorage.com.br/
 
-### Onde me encontrar:
+### Where to find me:
 
 :bird: [Twitter](https://twitter.com/bomffas)
 
