@@ -11,10 +11,11 @@ I am a person who likes to contribute to the construction of a cohesive, reliabl
 I am skilled at mediating conflicts and creating a space where ideas can flow.
 
 ### Stack
-- Vue.js (Vitest, Vite, Veutify, NX)
-- React (Jest, Mui, Next)
+- Vue.js (Veutify, NX)
+- React (Mui, Next)
 - WordPress
 - AEM (Adobe Experience Manage)
+- Test (Vitest, Jest)
 
 ### Courses I have already taken:
 
