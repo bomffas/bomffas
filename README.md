@@ -11,7 +11,7 @@ I am a person who likes to contribute to the construction of a cohesive, reliabl
 I am skilled at mediating conflicts and creating a space where ideas can flow.
 
 ### Stack
-- Vue.js (Veutify, NX)
+- Vue.js (Veutify)
 - React (Mui, Next)
 - WordPress
 - AEM (Adobe Experience Manage)
