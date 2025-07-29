@@ -13,7 +13,7 @@ I am skilled at mediating conflicts and creating a space where ideas can flow.
 ### Stack
 - Vue.js (Veutify)
 - React (Mui, Next)
-- WordPress
+- WordPress (ACF)
 - AEM (Adobe Experience Manage)
 - Test (Vitest, Jest)
 
