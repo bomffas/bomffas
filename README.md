@@ -24,10 +24,10 @@ I believe that any complex challenge can be solved with caution and collaboratio
 
 ### Courses I have already taken:
 
-- Arquitetura de Informação - [Mergo](https://www.mergo.com.br/)
+- Information Architecture - [Mergo](https://www.mergo.com.br/)
 - UX Weekend - [Mergo](https://www.mergo.com.br/)
 - Product Manager - [Product Arena](https://productarena.io/)
-- Design de Interfaces Acessíveis - UX e Acessibilidade Digital - [PUCSP](https://www.pucsp.br/pos-graduacao/especializacao-e-mba/design-de-interfaces-acessiveis-ux-e-acessibilidade-digital)
+- Accessible Interface Design - UX and Digital Accessibility - [PUCSP](https://www.pucsp.br/pos-graduacao/especializacao-e-mba/design-de-interfaces-acessiveis-ux-e-acessibilidade-digital)
 - UX Research - [Mergo](https://www.mergo.com.br/)
 
 ### WordPress Projects:
