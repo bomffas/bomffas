@@ -1,14 +1,17 @@
-## Bomffas here!
+## Joao Bomfim here!
 
-I have been working as a front-end developer for over 8 years. During this time, I have worked with basic web technologies (HTML, CSS, Javascript), frameworks such as React.JS/Next.JS with Typescript, and I have also worked with Vue.js.
+I have been developing front-end solutions for over 9 years, transforming complex ideas into intuitive and functional interfaces that deliver real results across various technologies, always collaborating with other teams such as Design, Product, Marketing, and Client Service.
 
-Regarding styling, I have used SASS (SCSS) and Styled Components. In addition to using UI libraries such as Veutify and Material-UI.
+🚀 Key achievements:
+• Migration and development of Vivo's relationship portal focusing on responsiveness, accessibility, and SEO;
+• Created the Pronta Reforma platform at Juntos Somos Mais, ensuring complete autonomy for external suppliers;
+• At Juntos Somos Mais, I developed the cumulative discount feature that increases conversions as related products are added to the cart;
+• StockCar Fantasy gamification platform.
+Current Stack: React.js, Next.js, TypeScript, Vue.js | Styled Components, SASS, Tailwind CSS | PostgreSQL with Prisma ORM | WebSocket, API development.
 
-I have worked with Git on Github, Gitlab and Bitbucket, in addition to developing components for Adobe Experience Manager (AEM) and templates for WordPress.
+Proven experience: VBET Brasil, Atomos Official, Juntos Somos Mais, Wunderman Thompson | Certifications in UX Research, Product Management, and Information Architecture.
 
-I am a person who likes to contribute to the construction of a cohesive, reliable and results-oriented work environment. I believe that any complex challenge can be solved if faced with caution.
-
-I am skilled at mediating conflicts and creating a space where ideas can flow.
+I believe that any complex challenge can be solved with caution and collaboration. I have the ability to mediate conflicts and create environments where ideas flow naturally.
 
 ### Stack
 - React (Mui, Next)
