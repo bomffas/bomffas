@@ -5,13 +5,9 @@ I've been developing front-end solutions for over 9 years, transforming complex 
 🚀 Key Achievements:
 
 - Migrated and developed Vivo's relationship portal focusing on responsiveness, accessibility, and SEO;
-
 - Halved the cost of Vivo's store map by limiting interaction events and permissions to the essentials.
-
 - Created the Pronta Reforma platform at Juntos Somos Mais, ensuring complete autonomy for external suppliers;
-
 - Developed, at Juntos Somos Mais, the cumulative discount feature that increases conversions as related products are added to the cart;
-
 - Developed the gamification platform for StockCar Fantasy.
 
 ### Stack
