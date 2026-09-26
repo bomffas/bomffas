@@ -20,6 +20,8 @@ I've been developing front-end solutions for over 9 years, transforming complex 
 - WordPress (ACF)
 - AEM (Adobe Experience Manage)
 - Test (Vitest, Jest)
+- NestJS
+- PostgreSQL
 
 ### Courses I have already taken:
 
