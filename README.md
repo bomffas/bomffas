@@ -34,6 +34,7 @@ I've been developing front-end solutions for over 9 years, transforming complex 
 - https://kesseftrading.com.br/
 - https://mobystorage.com.br/
 - https://studioameliamaria.com.br/
+- https://rik.net.br/
 
 ### Where to find me:
 
