@@ -1,43 +1,32 @@
-## Joao Bomfim here!
+## Hi, I'm João Bomfim
 
-I've been developing front-end solutions for over 9 years, transforming complex ideas into intuitive and functional interfaces that deliver real results across various technologies, always collaborating with other teams such as Design, Product, Marketing, and Customer Service.
+Front-End Developer since 2014 (12 years), currently on the Product team at VBET Brasil.
+I build with React, Next.js and TypeScript, and I work daily with Design, Product, Marketing and Analytics, in English, with teams in Armenia, Ukraine and Romania.
 
-🚀 Key Achievements:
+### Selected work
 
-- Migrated and developed Vivo's relationship portal focusing on responsiveness, accessibility, and SEO;
-- Halved the cost of Vivo's store map by limiting interaction events and permissions to the essentials.
-- Created the Pronta Reforma platform at Juntos Somos Mais, ensuring complete autonomy for external suppliers;
-- Developed, at Juntos Somos Mais, the cumulative discount feature that increases conversions as related products are added to the cart;
-- Developed the gamification platform for StockCar Fantasy.
+- **Next.js BFF, solo (VBET):** built a BFF that trims a large open sports data API so a partner app can show sports, leagues, teams, matches and betting markets. Routes, PostgreSQL/Prisma data model, refresh cron. 5 consumers: 4 client apps and our internal landing pages.
+- **E2E tests (VBET):** wrote Playwright tests for login, sign-up and data validation on the main platform; the pipeline runs them every hour.
+- **Release & issue tracker (VBET):** built with 2 other devs in ~2 months; I designed the PostgreSQL/Prisma schema and now maintain it alone.
+- **Gambling-risk questionnaire (VBET):** UI and per-answer saving for a 20-question shuffled questionnaire; ~600 completed in ~1 year.
+- **Cumulative discount in the cart (Juntos Somos Mais, Vue.js):** 1 of 3 devs; I built the related-products flow and the discount calculation. Analytics later found that customers who used the suggestions had a 15% higher average ticket than the pre-feature average, and checkout abandonment dropped 8% (relative).
+- **Test coverage (Juntos Somos Mais):** refactored the store's product search function into smaller modules; its coverage went from under 60% to 80%.
+- **State management (Atomos):** proposed moving the gamification area from Context API to Zustand; the proposal was accepted and I did both migrations.
+- **Automated deploys (Wunderman Thompson):** replaced FTP uploads with DeployBot for ~10 landing pages of one of Brazil's largest telecom operators; rolling back a version went down to a few minutes.
 
 ### Stack
-- React (Mui, Next)
-- Vue.js (Veutify)
-- WordPress (ACF)
-- AEM (Adobe Experience Manage)
-- Test (Vitest, Jest)
-- NestJS
-- PostgreSQL
 
-### Courses I have already taken:
+- **Now:** React, Next.js, TypeScript, NestJS, Prisma, PostgreSQL, REST APIs, Playwright
+- **Before:** Jest, React Testing Library, Vitest, Vue.js/Vuex, Styled Components, Motion, Tailwind CSS, SASS, GSAP, WordPress + ACF PRO, AEM
+- **Personal blog:** Astro on GitHub Pages, deployed with GitHub Actions
 
-- Information Architecture - [Mergo](https://www.mergo.com.br/)
-- UX Weekend - [Mergo](https://www.mergo.com.br/)
-- Product Manager - [Product Arena](https://productarena.io/)
-- Accessible Interface Design - UX and Digital Accessibility - [PUCSP](https://www.pucsp.br/pos-graduacao/especializacao-e-mba/design-de-interfaces-acessiveis-ux-e-acessibilidade-digital)
-- UX Research - [Mergo](https://www.mergo.com.br/)
+### Education
 
-### WordPress Projects:
+- Systems Analysis and Development (technologist degree), Centro Universitário Monte Serrat
+- Accessible Interface Design: UX and Digital Accessibility (30 h), PUC-SP
+- UX Weekend, UX Research, Information Architecture (short courses), Mergo
+- Web Dev Security, Desec Security (in progress)
 
-- https://kityachilles.com.br/
-- https://drmurilomarinho.com.br/
-- https://kesseftrading.com.br/
-- https://mobystorage.com.br/
-- https://studioameliamaria.com.br/
-- https://rik.net.br/
+### Find me
 
-### Where to find me:
-
-:bird: [Twitter](https://twitter.com/bomffas)
-
-:globe_with_meridians: [Site](https://www.joaobomfim.com.br)
+🌐 [joaobomfim.com.br](https://joaobomfim.com.br) · 💼 [LinkedIn](https://www.linkedin.com/in/joao-bomfim) · X [Twitter](https://twitter.com/bomffas)
