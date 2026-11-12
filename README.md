@@ -29,4 +29,4 @@ I build with React, Next.js and TypeScript, and I work daily with Design, Produc
 
 ### Find me
 
-🌐 [joaobomfim.com.br](https://joaobomfim.com.br) · 💼 [LinkedIn](https://www.linkedin.com/in/joao-bomfim) · <img src="x.svg" width="16" height="16" alt="" align="center"> [X](https://x.com/bomffas)
+[joaobomfim.com.br](https://joaobomfim.com.br) · [LinkedIn](https://www.linkedin.com/in/joao-bomfim) · [X](https://x.com/bomffas)
