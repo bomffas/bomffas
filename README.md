@@ -5,9 +5,9 @@ I build with React, Next.js and TypeScript, and I work daily with Design, Produc
 
 ### Selected work
 
-- **Next.js BFF, solo (VBET):** built a BFF that trims a large open sports data API so a partner app can show sports, leagues, teams, matches and betting markets. Routes, PostgreSQL/Prisma data model, refresh cron. 5 consumers: 4 client apps and our internal landing pages.
+- **Next.js BFF (VBET):** built a BFF that trims a large open sports data API so a partner app can show sports, leagues, teams, matches and betting markets. Routes, PostgreSQL/Prisma data model, refresh cron. 5 consumers: 4 client apps and our internal landing pages.
 - **E2E tests (VBET):** wrote Playwright tests for login, sign-up and data validation on the main platform; the pipeline runs them every hour.
-- **Release & issue tracker (VBET):** built with 2 other devs in ~2 months; I designed the PostgreSQL/Prisma schema and now maintain it alone.
+- **Release & issue tracker (VBET) NestJS:** built with 2 other devs in ~2 months; I designed the PostgreSQL/Prisma schema and now maintain it alone.
 - **Gambling-risk questionnaire (VBET):** UI and per-answer saving for a 20-question shuffled questionnaire; ~600 completed in ~1 year.
 - **Cumulative discount in the cart (Juntos Somos Mais, Vue.js):** 1 of 3 devs; I built the related-products flow and the discount calculation. Analytics later found that customers who used the suggestions had a 15% higher average ticket than the pre-feature average, and checkout abandonment dropped 8% (relative).
 - **Test coverage (Juntos Somos Mais):** refactored the store's product search function into smaller modules; its coverage went from under 60% to 80%.
